@@ -63,7 +63,7 @@
 
   .product-view-all-btn {
     display: inline-block;
-    background: #28a745;
+    background: #660000;
     padding: 5px 15px;
     color: #fff;
     font-size: 16px;
@@ -91,7 +91,7 @@
 
 .whatapps-btn-inner i {
     font-size: 50px;
-    color: #28a745;
+    color: #660000;
 }
   /*common css End*/
 
@@ -122,7 +122,7 @@
   .search-form-outer .search-form input {
       width: 600px;
       height: 50px;
-      border: 2px solid #28a745;
+      border: 2px solid #660000;
       border-radius: 5px;
   }
 
@@ -193,7 +193,7 @@
   }
 
   .shopping-cart-total {
-      border-top: 2px solid #28a745;
+      border-top: 2px solid #660000;
       margin: 25px 0;
       padding-top: 17px;
   }
@@ -208,7 +208,7 @@
   .shopping-cart-total h4 span {
       font-size: 20px;
       float: right;
-      color: #28a745;
+      color: #660000;
   }
 
   .shopping-cart-button {
@@ -220,8 +220,8 @@
 
   .shopping-cart-button .view-cart-link {
       background-color: transparent;
-      border: 2px solid #28a745;
-      color: #28a745;
+      border: 2px solid #660000;
+      color: #660000;
       padding: 8px 20px;
       font-size: 16px;
       font-weight: 600;
@@ -236,19 +236,19 @@
       color: #ffffff;
       border-radius: 4px;
       padding: 8px 20px;
-      background-color: #28a745;
+      background-color: #660000;
       font-family: "Quicksand", sans-serif;
-      border: 2px solid #28a745;
+      border: 2px solid #660000;
   }
 
   .view-cart-link:hover {
-      background: #28a745;
+      background: #660000;
       color: #fff;
   }
 
   .checkout-link:hover {
       background: transparent;
-      color: #28a745;
+      color: #660000;
   }
 
   .header-top-right-item .account-list {
@@ -300,7 +300,7 @@
   }
 
   .header-top-right-item-link:hover {
-      color: #28a745;
+      color: #660000;
   }
 
   .header-top-right-item-link .icon-outer {
@@ -316,7 +316,7 @@
       position: absolute;
       top: -15px;
       right: -5px;
-      background: #28a745;
+      background: #660000;
       color: #fff;
       width: 20px;
       height: 20px;
@@ -337,7 +337,7 @@
 
   .cart-product-name-price .product-name {
       font-size: 16px;
-      color: #28a745;
+      color: #660000;
       font-weight: 500;
       margin-bottom: 5px;
   }
@@ -417,7 +417,7 @@
 
   .category-icon-outer {
       display: inline-block;
-      background: #28a745;
+      background: #660000;
       color: #fff;
       font-size: 16px;
       font-weight: 700;
@@ -447,7 +447,7 @@
       height: 100vh;
       left: 0;
       top: 40px;
-      border: 1px solid #28a745;
+      border: 1px solid #660000;
       border-radius: 10px;
       transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
       -webkit-transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -490,7 +490,7 @@
   }
 
   .category-list-item-link:hover {
-      color: #28a745;
+      color: #660000;
       border: 1px solid #f5bea3;
       -webkit-box-shadow: 5px 5px 15px rgb(0 0 0 / 5%);
       box-shadow: 5px 5px 15px rgb(0 0 0 / 5%);
@@ -540,7 +540,7 @@
   }
 
   .category-submenu-item-link:hover {
-      color: #28a745;
+      color: #660000;
       background-color: #F2F2F2;
   }
 
@@ -573,7 +573,7 @@
   }
 
   .manu-list .manu-list-item .manu-list-item-link:hover {
-      color: #28a745;
+      color: #660000;
   }
 
   .nav-toggle-btn {
@@ -703,7 +703,7 @@
   }
 
   .account-list-item-link:hover{
-      color: #28a745;
+      color: #660000;
   }
 
   .slider-items-wrapper .slick-dots {
@@ -722,7 +722,7 @@
       height: 20px;
       border-radius: 50%;
       margin-right: 10px;
-      border: 1px solid #28a745;
+      border: 1px solid #660000;
       transition: all .3s ease;
   }
 
@@ -731,7 +731,7 @@
   }
 
   .slider-items-wrapper .slick-dots li.slick-active {
-      background: #28a745;
+      background: #660000;
       border: none;
   }
 
@@ -778,7 +778,7 @@
 .top-selling-product-content .product-regular-price {
     font-size: 17px;
     font-weight: 700;
-    color: #28a745;
+    color: #660000;
 }
 
 .top-selling-product-content .product-name {
@@ -796,7 +796,7 @@
     padding: 20px 0;
 }
 .notice_text_wrap {
-    background: #28a745;
+    background: #660000;
     padding: 5px;
     border-radius: 5px;
 }
@@ -870,11 +870,11 @@
   }
 
   .categoris-items-wrapper .owl-nav .owl-next:hover {
-      background: #28a745!important;
+      background: #660000!important;
   }
 
   .categoris-items-wrapper .owl-nav .owl-prev:hover {
-      background: #28a745!important;
+      background: #660000!important;
   }
 
   .categoris-items-wrapper .owl-nav .owl-prev:hover span {
@@ -923,7 +923,7 @@
   .banner-item-outer .banner-content .shop-now-btn {
       display: inline-block;
       padding: 7px 8px 7px 12px;
-      background: #28a745;
+      background: #660000;
       color: #fff;
       font-size: 14px;
       border-radius: 5px;
@@ -933,7 +933,7 @@
   }
 
   .banner-item-outer .banner-content .shop-now-btn:hover {
-      background: #28a745;
+      background: #660000;
   }
 
   .banner-item-outer .banner-content .shop-now-btn:hover i{
@@ -1057,7 +1057,7 @@
       z-index: -1;
       content: '';
       display: block;
-      border: 5px solid #28a745;
+      border: 5px solid #660000;
       border-top-color: transparent;
       border-right-color: transparent;
       top: 0px;
@@ -1069,7 +1069,7 @@
       z-index: -1;
       content: '';
       display: block;
-      border: 5px solid #28a745;
+      border: 5px solid #660000;
       border-top-color: transparent;
       border-right-color: transparent;
       bottom: 56px;
@@ -1104,20 +1104,20 @@
 
   .product-item-bottom .product-price .old-price {
       font-size: 18px;
-      color: #28a745;
+      color: #660000;
       margin-left: 5px;
   }
 
   .product-item-bottom .product-price span {
       font-size: 18px;
       font-weight: bold;
-      color: #28a745;
+      color: #660000;
   }
 
   .product-item-bottom .add-cart .add-cart-btn {
       padding: 6px 20px 6px 20px;
       border-radius: 4px;
-      background-color: #28a745;
+      background-color: #660000;
       font-size: 14px;
       font-weight: 700;
       border: none;
@@ -1126,7 +1126,7 @@
   }
 
   .product-item-bottom .add-cart:hover .add-cart-btn {
-      background-color: #28a745;
+      background-color: #660000;
       color: #fff;
       -webkit-transform: translateY(-5px);
       transform: translateY(-5px);
@@ -1148,7 +1148,7 @@
   }
 
   .product-item-wrapper:hover .product-content-outer .product-name {
-      color: #28a745;
+      color: #660000;
   }
 
   .product-item-wrapper:hover .product-imgae .hover-image {
@@ -1162,23 +1162,23 @@
       margin-top: 10px;
       display: block;
       text-align: center;
-      background: #28a745;
+      background: #660000;
       border-radius: 5px;
       padding: 8px 0;
       font-size: 16px;
       font-weight: 700;
       color: #fff;
-      border: 1px solid #28a745;
+      border: 1px solid #660000;
   }
 
   .quick-order-btn-inner:hover {
       background: transparent;
-      color: #28a745;
+      color: #660000;
   }
 
   /* Product badges color css start */
   .product-image-outer .product-badges.hot span {
-      background-color: #28a745;
+      background-color: #660000;
   }
 
   .product-image-outer .product-badges.offer span {
@@ -1599,7 +1599,7 @@
 .footer__social-list-item-lisk {
     width: 35px;
     height: 35px;
-    background: #28a745;
+    background: #660000;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1681,11 +1681,11 @@
 }
 
 .footer__contact-info-list-item-value:hover {
-    color: #28a745;
+    color: #660000;
 }
 
 .footer__list-item-link:hover {
-    color: #28a745;
+    color: #660000;
     padding-left: 3px;
 }
 
@@ -1705,7 +1705,7 @@
 .footer__bottom-text .text-brand {
     display: inline-block;
     margin-left: 5px;
-    color: #28a745;
+    color: #660000;
 }
 /*Footer section css End*/
 
@@ -1721,7 +1721,7 @@
     border: 0;
     font-weight: 700;
     font-size: 16px;
-    background: #28a745;
+    background: #660000;
     color: #fff;
     margin-top: 10px;
 }
@@ -1806,7 +1806,7 @@
   .product-details-content .product-price span {
       font-size: 35px;
       font-weight: bold;
-      color: #28a745;
+      color: #660000;
   }
 
   .product-details-content .product-price .old-price {
@@ -1826,10 +1826,10 @@
 
   .purchase-info-outer input {
       background: #fff;
-      border: 2px solid #28a745!important;
+      border: 2px solid #660000!important;
       font-size: 20px;
       font-weight: 700;
-      color: #28a745;
+      color: #660000;
       border-radius: 5px;
       padding: 10px 15px 10px 20px;
       max-width: 90px;
@@ -1843,7 +1843,7 @@
       border: 0;
       font-weight: 700;
       font-size: 16px;
-      background: #28a745;
+      background: #660000;
       color: #fff;
       margin-top: 10px;
   }
@@ -1865,7 +1865,7 @@
   }
 
   .product-details-info .nav-pills .nav-link.active {
-      background: #28a745;
+      background: #660000;
       font-size: 16px;
       font-weight: 700;
       color: #fff;
@@ -1936,7 +1936,7 @@
   }
 
   .product-details-categoris .category-item-outer:hover {
-      color: #28a745;
+      color: #660000;
       border: 1px solid #e5ad92;
       -webkit-box-shadow: 5px 5px 15px rgb(0 0 0 / 5%);
       box-shadow: 5px 5px 15px rgb(0 0 0 / 5%);
@@ -2020,8 +2020,8 @@
 
   .product-details-hot-line {
     margin-top: 20px;
-    background: #28a745;
-    border: 1px solid #28a745;
+    background: #660000;
+    border: 1px solid #660000;
     padding: 8px 20px;
     border-radius: 5px;
     color: #fff;
@@ -2030,26 +2030,26 @@
 
 .decrement-btn,.increment-btn {
     background: transparent;
-    border: 2px solid #28a745;
+    border: 2px solid #660000;
     font-size: 14px;
     width: 30px;
     height: 30px;
     border-radius: 50%;
     line-height: 28px;
-    color: #28a745;
+    color: #660000;
     display: inline-block;
     text-align: center;
 }
 
 .decrement-btn:hover, .increment-btn:hover {
-    background: #28a745;
+    background: #660000;
     color: #fff;
 }
 
 .purchase-info-outer .out-stock {
     margin-top: 20px;
-    background: #28a745;
-    border: 1px solid #28a745;
+    background: #660000;
+    border: 1px solid #660000;
     padding: 8px 20px;
     border-radius: 5px;
     color: #fff;
@@ -2164,7 +2164,7 @@
 
   .product-images-slider-outer .slider-content i.fas.fa-chevron-left {
       position: absolute;
-      background: #28a745;
+      background: #660000;
       width: 40px;
       height: 40px;
       display: flex;
@@ -2186,7 +2186,7 @@
 
   .product-images-slider-outer .slider-content i.fas.fa-chevron-right {
       position: absolute;
-      background: #28a745;
+      background: #660000;
       width: 40px;
       height: 40px;
       display: flex;
@@ -2252,7 +2252,7 @@
       border-radius: 4px;
       color: #fff;
       border: 1px solid transparent;
-      background-color: #28a745;
+      background-color: #660000;
       cursor: pointer;
       -webkit-transition: all 300ms linear 0s;
       transition: all 300ms linear 0s;
@@ -2302,7 +2302,7 @@
       border-radius: 4px;
       color: #fff;
       border: 1px solid transparent;
-      background-color: #28a745;
+      background-color: #660000;
       cursor: pointer;
       -webkit-transition: all 300ms linear 0s;
       transition: all 300ms linear 0s;
@@ -2391,8 +2391,8 @@
         padding: 12px 0px;
         border-radius: 4px;
         color: #fff;
-        border: 1px solid #28a745;
-        background-color: #28a745;
+        border: 1px solid #660000;
+        background-color: #660000;
         cursor: pointer;
         -webkit-transition: all 300ms linear 0s;
         transition: all 300ms linear 0s;
@@ -2401,7 +2401,7 @@
 
     .order-place-btn-inner:hover{
       background: transparent;
-      color: #28a745;
+      color: #660000;
     }
 
   .checkout-item-outer {
@@ -2435,7 +2435,7 @@
   .checkout-item-price {
       font-size: 16px;
       font-weight: 800;
-      color: #28a745;
+      color: #660000;
       margin-bottom: 0;
   }
 
@@ -2445,7 +2445,7 @@
   }
 
   .checkout-item-right .delete-btn {
-      background: #28a745;
+      background: #660000;
       color: #fff;
       border: none;
       padding: 5px 8px;
@@ -2479,35 +2479,35 @@
 
   .qty-increment-btn {
       background: transparent;
-      border: 1px solid #28a745;
+      border: 1px solid #660000;
       font-size: 14px;
       width: 25px;
       height: 25px;
       border-radius: 50%;
       line-height: 22px;
-      color: #28a745;
+      color: #660000;
   }
   .qty-decrement-btn {
       background: transparent;
-      border: 1px solid #28a745;
+      border: 1px solid #660000;
       font-size: 14px;
       width: 25px;
       height: 25px;
       border-radius: 50%;
       line-height: 22px;
-      color: #28a745;
+      color: #660000;
   }
   .qty-increment-btn:hover,.qty-decrement-btn:hover {
-      background: #28a745;
+      background: #660000;
       color: #fff;
   }
 
   .checkout-item-left .checkout-product-incre-decre input {
       background: #fff;
-      border: 1px solid #28a745!important;
+      border: 1px solid #660000!important;
       font-size: 18px;
       font-weight: 700;
-      color: #28a745;
+      color: #660000;
       border-radius: 5px;
       text-align: center;
       max-width: 75px;
@@ -2578,9 +2578,9 @@
   }
 
   .cart-sec.item-remove-btn button.remove-product {
-      background: #28a745;
+      background: #660000;
       color: #fff;
-      border: 1px solid #28a745;
+      border: 1px solid #660000;
       border-radius: 5px;
       font-size: 16px;
       font-family: 'Poppins';
@@ -2642,10 +2642,10 @@
 
   .cart-responsive-product-total .item-quantity .quantity input {
       background: #fff;
-      border: 1px solid #28a745 !important;
+      border: 1px solid #660000 !important;
       font-size: 18px;
       font-weight: 700;
-      color: #28a745;
+      color: #660000;
       border-radius: 5px;
       padding: 5px;
       max-width: 60px;
@@ -2654,9 +2654,9 @@
   }
 
   .cart-responsive-product-total .item-remove-btn .remove-product {
-      background: #28a745;
+      background: #660000;
       color: #fff;
-      border: 1px solid #28a745;
+      border: 1px solid #660000;
       font-size: 16px;
       font-family: 'Poppins';
       padding: 3px 5px;
@@ -2897,7 +2897,7 @@
   .contact-info-icon {
       display: inline-block;
       padding: 20px 30px;
-      background: #28a745;
+      background: #660000;
       margin-bottom: 20px;
   }
 
@@ -2920,7 +2920,7 @@
   }
 
   .contact-info-item a:hover,.contact-info-item p:hover {
-      color: #28a745;
+      color: #660000;
   }
 
   .contact-info-item p {
@@ -2964,7 +2964,7 @@
       width: 100%;
       padding: 10px 0;
       border: none;
-      background: #28a745;
+      background: #660000;
       color: #FFF;
       font-size: 18px;
       font-weight: 500;
@@ -3175,7 +3175,7 @@
   .our-mission-section-heading {
       text-align: center;
       padding: 10px 0;
-      background: #28a745;
+      background: #660000;
       margin-bottom: 20px;
   }
 
@@ -3201,7 +3201,7 @@
   .future-program-section-heading {
       text-align: center;
       padding: 10px 0;
-      background: #28a745;
+      background: #660000;
       margin-bottom: 20px;
   }
 
@@ -3244,7 +3244,7 @@
 
   .our-location-section-heading {
       text-align: center;
-      background: #28a745;
+      background: #660000;
       padding: 10px 0;
       margin-bottom: 20px;
   }
@@ -3260,17 +3260,17 @@
 
   .future-program-section-content .title {
       text-align: center;
-      border-bottom: 1px solid #28a745;
+      border-bottom: 1px solid #660000;
       padding-bottom: 10px;
       margin-bottom: 20px;
       font-size: 25px;
       font-weight: 600;
-      color: #28a745;
+      color: #660000;
   }
 
   .future-program-section-content .apply-btn {
       display: inline-block;
-      background: #28a745;
+      background: #660000;
       color: #fff;
       padding: 7px 20px;
       border-radius: 5px;
@@ -3313,7 +3313,7 @@
       border-bottom: 1px solid #ccc;
       margin-bottom: 10px;
       text-transform: capitalize;
-      background: #28a745;
+      background: #660000;
   }
 
   .leftside {
@@ -3345,7 +3345,7 @@
   .leftside.sub-categories-title:hover,
   .leftside.manufactures-title:hover,
   .leftside.condition-title:hover {
-      background: #28a745;
+      background: #660000;
       color: #fff;
   }
 
@@ -3360,7 +3360,7 @@
   .leftside.sub-categories-title,
   .leftside.manufactures-title,
   .leftside.condition-title {
-      background: #28a745;
+      background: #660000;
       color: #fff;
   }
 
@@ -3399,7 +3399,7 @@
   .leftside.sub-categories-title i.fas.fa-chevron-down {
       transform: rotate(180deg);
       transition: all .3s ease;
-      color: #28a745;
+      color: #660000;
   }
 
   .leftside.categories-title.collapsed i.fas.fa-chevron-down,
@@ -3416,7 +3416,7 @@
       align-items: center;
       justify-content: space-between;
       padding: 14px 24px;
-      background: #28a745;
+      background: #660000;
       margin-bottom: 20px;
       color: #fff;
   }
@@ -3494,12 +3494,12 @@
 
   .input-item-wrapper input:focus {
       box-shadow: none;
-      border: 1px solid #28a745;
+      border: 1px solid #660000;
   }
 
   .input-item-wrapper textarea:focus {
       box-shadow: none;
-      border: 1px solid #28a745;
+      border: 1px solid #660000;
   }
 
   .return-process-btn-outer {
@@ -3508,9 +3508,9 @@
   }
 
   .return-process-btn-inner {
-      background: #28a745;
+      background: #660000;
       color: #fff;
-      border: 1px solid #28a745;
+      border: 1px solid #660000;
       border-radius: 5px;
       padding: 10px 30px;
       font-size: 18px;
@@ -3521,7 +3521,7 @@
 
   .return-process-btn-inner:hover {
       background: transparent;
-      color: #28a745;
+      color: #660000;
   }
   /*Return Process section css End*/
 
@@ -3588,7 +3588,7 @@
       width: 150px;
       height: 150px;
       border-radius: 50%;
-      background: #28a745;
+      background: #660000;
       position: absolute;
   }
   .checkmark-circle .checkmark {
@@ -3703,22 +3703,22 @@
      font-size: 20px;
      font-weight: 600;
      line-height: 28px;
-     color: #28a745;
+     color: #660000;
   }
 
   .thank-you-btn-inner {
-     background: #28a745;
+     background: #660000;
      padding: 10px 20px;
      display: inline-block;
      font-size: 18px;
      font-weight: 700;
      color: #fff;
      border-radius: 5px;
-     border: 1px solid #28a745;
+     border: 1px solid #660000;
   }
 
   .thank-you-btn-inner:hover {
      background: transparent;
-     color: #28a745;
+     color: #660000;
   }
   /*Thank you page css End*/
